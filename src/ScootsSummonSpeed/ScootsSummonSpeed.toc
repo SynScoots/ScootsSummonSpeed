@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: ScootsSummonSpeed
+## Notes: Auto accept invite / summon from SummonScoots
+## Author: Scoots
+## Version: 1.0
+## SavedVariables: SSS_AUTOACCEPT
+
+ScootsSummonSpeed.lua

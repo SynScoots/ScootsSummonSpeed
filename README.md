@@ -8,8 +8,8 @@ Download this repository, then extract the `ScootsSummonSpeed` subdirectory from
 
 ## Usage ##
 
-`/sss` or `/scootsspeedrun` are interchagable commands.
-`/sss` will list usage instructions in the chat panel.
-`/sss add CharacterName` will add "CharacterName" to the auto-accept list.
-`/sss remove CharacterName` will remove "CharacterName" from the auto-accept list.
-`/sss list` will list all characters presently on the auto-accept list.
+- `/sss` or `/scootsspeedrun` are interchagable commands.
+- `/sss` will list usage instructions in the chat panel.
+- `/sss add CharacterName` will add "CharacterName" to the auto-accept list.
+- `/sss remove CharacterName` will remove "CharacterName" from the auto-accept list.
+- `/sss list` will list all characters presently on the auto-accept list.

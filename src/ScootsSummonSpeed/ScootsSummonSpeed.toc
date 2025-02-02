@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: ScootsSummonSpeed
-## Notes: Auto accept invite / summon from SummonScoots
+## Notes: Auto accept invite / summon from a list of characters
 ## Author: Scoots
 ## Version: 1.0
 ## SavedVariables: SSS_AUTOACCEPT
